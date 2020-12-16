@@ -1,0 +1,33 @@
+{
+  "company": {
+  "title": "Veridian Dynamics",
+  "motto": "Life. Better."
+  },
+  "employees": [
+    {
+      "name": "Veronica Palmer",
+      "title": "Senior Vice President",
+      "bio": "A natural born executive as sharp as she is sharp as she is sharp."
+    },
+    {
+      "name": "Ted Crisp",
+      "title": "Vice President",
+      "bio": "With years of experience in the field, Ted has proven himself a capable leader and creative problem solver time and again."
+    },
+    {
+      "name": "Linda Zwordling",
+      "title": "Head of Testing",
+      "bio": "The last bastion between innovation and safety."
+    },
+    {
+      "name": "Lem Hewitt",
+      "title": "Research Scientist",
+      "bio": "An MIT graduate behind such pioneering inventions as hover boots, cow-less beef, and the cure for baldness."
+    },
+    {
+      "name": "Phil Myman",
+      "title": "Research Scientist",
+      "bio": "Brilliant and dedicated, Phil is a credit to his employer and his species."
+    }
+  ]
+}

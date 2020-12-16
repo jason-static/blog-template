@@ -1,0 +1,14 @@
+{
+  "/index.html": {"@template": "index.html"},
+  "/[company.title].html": {
+    "@template": "company-profile.html",
+    "_company": "data.company"
+  },
+  "/employees": {
+    "/index.html": {"@template": "employee-list.html"},
+    "/[employee.name].html": {
+      "_employee": "data.employees",
+      "@template": "employee-detail.html"
+    }
+  }
+}

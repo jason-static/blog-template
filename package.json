@@ -1,0 +1,18 @@
+{
+  "name": "static-jason-blog-template",
+  "version": "0.7.0",
+  "description": "A blog template for Jason Static, the data-driven static site generator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jason-static/blog-template.git"
+  },
+  "author": "Wes Lord",
+  "license": "ISC",
+  "homepage": "https://github.com/jason-static/blog-template#readme",
+  "scripts": {
+    "build": "jason"
+  },
+  "dependencies": {
+    "jason-static": "github:jason-static/jason-static"
+  }
+}
